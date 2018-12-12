@@ -43,7 +43,7 @@ python makeitdark.py
 
 Add this sidebar theme for consistency which kinda makes it look like Mojave dark mode, from [slackthemes.net](https://slackthemes.net):
 ```
-#333336,#2e2e31,#666668,#ffffff,#277df6,#d7d5d4,#277df6,#277df6
+#17181c,#252525,#A36B31,#D2D6D6,#5C6380,#DEDEDE,#ADBA4E,#DB6668
 ```
 
 ### Reverting

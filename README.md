@@ -23,7 +23,7 @@ Don't trust me - fork the repo.
 
 ### Running
 
-Unix
+Mac
 ```bash
 sudo chmod o+w /Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static/ssb-interop.js
 python makeitdark.py
@@ -33,6 +33,11 @@ sudo chmod o-w /Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/
 sudo chmod o+w /Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static/ssb-interop.js
 python3 makeitdark.py
 sudo chmod o-w /Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static/ssb-interop.js
+```
+
+Linux
+```
+python makeitdark.py
 ```
 
 Windows
